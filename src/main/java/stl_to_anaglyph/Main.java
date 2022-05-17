@@ -129,7 +129,7 @@ public class Main {
 
         TrianglesDrawArrays kostka = new TrianglesDrawArrays(vertices);
 
-        Shader shader1 = new Shader("kostka3d_anaglyph_1", "kostka3d_anaglyph_1");
+        Shader shader1 = new Shader("kostka3d_anaglyph_2", "kostka3d_anaglyph_1");
         Shader shader2 = new Shader("kostka3d_anaglyph_2", "kostka3d_anaglyph_2");
 
         float[] model = new float[16];
